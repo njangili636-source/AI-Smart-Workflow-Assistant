@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+workflow
+workflow.db
+.env
+.streamlit/secrets.toml
